@@ -1,21 +1,18 @@
-# LA_0120
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       | 0.0.1   | Projektplanung, Aufteilung und Entscheidungen treffen |
+|       | X.X.X   |  |
+|       | X.X.X   |  |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unsere Idee ist es, ein Programm für Raspberry Pi zu schreiben. Wir wollen mit Sensoren arbeiten und haben uns überlegt, ein Ampelsystem zu implementieren.
 
 ### 1.2 User Stories
 
