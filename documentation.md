@@ -1,5 +1,6 @@
 # Projekt-Dokumentation
 
+
 LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 
 | Datum  | Version | Zusammenfassung                                              |
@@ -26,7 +27,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 ### 1.3 Diagramme
 
-Skizze / Diagramm / Design / Entwurf / Bild
+![image](https://github.com/user-attachments/assets/189c4587-95cc-4937-9d69-6ddca6c73c70)
+
 
 ## 2 Planen
 
