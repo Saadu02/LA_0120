@@ -36,6 +36,10 @@ Skizze
 
 Raspberry Pi offline oder Tinkercad Circuits online?
 
+Unsere Idee ist es zuerst eine per Knopfdruck funktionierende Ampel zu programmieren. 
+Dabei benutzen wir die Programmiersprache Python und werden diese besser kennenlernen, da wir das in der Schule nicht durchgenommen haben. Dazu werden wir pi-top [4] benutzen, das Raspberry PI beinhält und die Erweiterung Electrics-Kit verwenden.
+
+
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
