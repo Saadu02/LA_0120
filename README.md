@@ -21,9 +21,12 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 | US-№ | Verbindlichkeit | Beschreibung                       |
 | ---- | --------------- | ---------------------------------- |
-| 1    | Funktional | Als ein User möchte ich, dass die Sensor etwas erkennen können |
+| 1    | Funktional | Als ein User möchte ich, dass die Sensor auf einem Objekt erkennen können |
 | 2    | Funktional | Als ein User möchte ich, dass die LEDs am richtigen Zeitpunkt ein- oder ausgeschaltet sind. |
-| 3    | Funktional | Als ein User möchte ich, dass die Ampeln automatisch die LEDs nach Sensor wechseln |
+| 3    | Funktional | Als ein User möchte ich, dass die Ampeln automatisch die LEDs nach Sensor wechseln. |
+| 4    | Funktional | Als ein User möchte ich, dass eine dass es eine Schaltfläche gibt, die ich anklicken kann, um die Fussgängerstreifen sicher zu überqueren. |
+| 5    | Funktional | Als ein User möchte ich, dass nach dem Klicken der Schaltfläche die LEDs automatisch nach Überprüfung des Objekts wieder grün leuchten.|
+
 
 ### 1.3 Diagramme
 
