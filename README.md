@@ -8,7 +8,7 @@ LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 | 01.11. | 0.0.1   | Informieren und Ausprobieren |
 | 08.11. | 0.1.1   | Projektplanung, Aufteilung und Entscheidungen treffen |
 | 15.11. | 0.1.2   | Änderungen, LEDs und Sensoren verknüpfen |
-| 22.11. | X.X.X   | - |
+| 22.11. | 1.0.0   | Auto-Ampel und Fussgänger-Ampel fertig |
 | 29.11. | X.X.X   | - |
 | 06.12. | X.X.X   | - |
 | 13.12. | X.X.X   | - |
@@ -57,9 +57,9 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 1.A  | 15.11. | Alle | Bewegungs-Sensoren definieren | 90min |
 | 2.A  | 15.11. | Alle | LEDs verbinden | 90min |
 | 3.A  | 22.11. | Alle | Sensoren mit LEDs verknüpfen | 90min |
-| 4.a  | 22.11. | Alle | Fussgänger wechsel bestimmen und skizzieren | 90min |
-| 4.b  | 29.11. | Alle | Knopf-Sensoren definieren | 90min|
-| 4.c  | 29.11. | Alle | LEDs mit ganzer Logik verbinden | 90min |
+| 4.a  | 22.11. | Alle | Fussgängerwechsel skizzieren und implementieren | 90min |
+| 4.b  | 29.11. | Alle | Auto-Ampel und Fussgänger-Ampel verknüpfen | 180min|
+| 4.c  | 29.11. | Alle | 4x Ampel für ganze Kreuzung | 180min |
 | X.X  | 06.12  | Alle | - | XXmin |
 | X.X  | 13.12  | Alle | - | XXmin |
 
@@ -87,7 +87,7 @@ Ausserdem haben wir anstatt unsere Aufgaben selbstständig zu lösen, das Meiste
 | 1.A  | 15.11. | Alle | 90min | 150min |
 | 2.A  | 15.11. | Alle | 90min | 30min |
 | 3.A  | 22.11. | Alle | 150min | 90min |
-| 4.a  | 22.11. | Alle | 180min | 90min |
+| 4.A  | 22.11. | Alle | 180min | 90min |
 
 ## 5 Kontrollieren
 
