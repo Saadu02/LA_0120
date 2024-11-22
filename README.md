@@ -33,6 +33,11 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 ### 1.3 Diagramme
 
 ![image](https://github.com/user-attachments/assets/189c4587-95cc-4937-9d69-6ddca6c73c70)
+08.11.
+
+![image](https://github.com/user-attachments/assets/cc304349-b940-4ddf-bf5a-21c444da5a72)
+22.11.
+
 
 
 ## 2 Planen
