@@ -86,6 +86,8 @@ Ausserdem haben wir anstatt unsere Aufgaben selbstständig zu lösen, das Meiste
 | 0.B  | 08.11. | Alle | 180min | 180min |
 | 1.A  | 15.11. | Alle | 90min | 150min |
 | 2.A  | 15.11. | Alle | 90min | 30min |
+| 3.A  | 22.11. | Alle | 150min | 90min |
+| 4.a  | 22.11. | Alle | 180min | 90min |
 
 ## 5 Kontrollieren
 
