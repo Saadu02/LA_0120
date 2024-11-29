@@ -9,7 +9,7 @@ LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 | 08.11. | 0.1.1   | Projektplanung, Aufteilung und Entscheidungen treffen |
 | 15.11. | 0.1.2   | Änderungen, LEDs und Sensoren verknüpfen |
 | 22.11. | 1.0.0   | Auto-Ampel und Fussgänger-Ampel fertig |
-| 29.11. | X.X.X   | - |
+| 29.11. | 1.1.0   | Auto- und Fussgänger-Ampel miteinander verbunden |
 | 06.12. | X.X.X   | - |
 | 13.12. | X.X.X   | - |
 
@@ -40,7 +40,9 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 22.11.
 
+![image](https://github.com/user-attachments/assets/90a9376e-4725-440f-9484-00f9bcebe9d9)
 
+29.11.
 
 ## 2 Planen
 
@@ -59,9 +61,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 3.A  | 22.11. | Alle | Sensoren mit LEDs verknüpfen | 90min |
 | 4.a  | 22.11. | Alle | Fussgängerwechsel skizzieren und implementieren | 90min |
 | 4.b  | 29.11. | Alle | Auto-Ampel und Fussgänger-Ampel verknüpfen | 180min|
-| 4.c  | 29.11. | Alle | 4x Ampel für ganze Kreuzung | 180min |
-| X.X  | 06.12  | Alle | - | XXmin |
-| X.X  | 13.12  | Alle | - | XXmin |
+| 4.c  | 06.12. | Alle | 4x Ampel für ganze Kreuzung | 180min |
+| 4.c  | 13.12. | Alle | 4x Ampel für ganze Kreuzung | 180min |
 
 
 ## 3 Entscheiden
