@@ -9,7 +9,7 @@ LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 | 08.11. | 0.1.1   | Projektplanung, Aufteilung und Entscheidungen treffen |
 | 15.11. | 0.1.2   | Änderungen, LEDs und Sensoren verknüpfen |
 | 22.11. | 1.0.0   | Auto-Ampel und Fussgänger-Ampel fertig |
-| 29.11. | 1.1.0   | Auto- und Fussgänger-Ampel miteinander verbunden |
+| 29.11. | 1.0.1   | Auto- und Fussgänger-Ampel versucht miteinander zu verbinden |
 | 06.12. | X.X.X   | - |
 | 13.12. | X.X.X   | - |
 
@@ -64,7 +64,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 4.a  | 22.11. | Alle | Fussgängerwechsel skizzieren und implementieren | 90min |
 | 4.b  | 29.11. | Alle | Auto-Ampel und Fussgänger-Ampel verknüpfen | 180min|
 | 4.c  | 06.12. | Alle | 4x Ampel für ganze Kreuzung | 180min |
-| 4.c  | 13.12. | Alle | 4x Ampel für ganze Kreuzung | 180min |
+| 4.c  | 13.12. | Alle | 4x Ampel für ganze Kreuzung | 90min |
+| 0.C  | 13.12  | Alle | Portfolio schreiben | 90min |
 
 
 ## 3 Entscheiden
@@ -80,6 +81,9 @@ Eine weitere Änderung ist, dass wir jetzt C++ benutzen werden anstatt von Pytho
 Wir haben versucht, die Schaltung mit einem PIR-Sensor zu machen, das aber nicht funktioniert hat. Nun versuchen wir, das ganze mit einem Ultraschall-Abstandssensor zu implementieren.
 Ausserdem haben wir anstatt unsere Aufgaben selbstständig zu lösen, das Meiste zusammen gemacht, da wir so wie so alles miteinander verknüpft ist und wir auf dem selben Projekt arbeiten.
 
+29.11.
+Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu verknüpfen, so dass auch beide richtig funktionieren. Deshalb werden wir nächstes Woche noch einmal an diesem Paket arbeiten und dafür das mit den 4x Ampel für die ganze Kreuzung weg lassen.
+
 
 ## 4 Realisieren
 
@@ -91,6 +95,7 @@ Ausserdem haben wir anstatt unsere Aufgaben selbstständig zu lösen, das Meiste
 | 2.A  | 15.11. | Alle | 90min | 30min |
 | 3.A  | 22.11. | Alle | 150min | 90min |
 | 4.A  | 22.11. | Alle | 180min | 90min |
+| 4.B  | 29.11. | Alle | 180min | 180min |
 
 ## 5 Kontrollieren
 
