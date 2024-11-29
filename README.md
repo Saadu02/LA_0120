@@ -39,6 +39,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 ![image](https://github.com/user-attachments/assets/cc304349-b940-4ddf-bf5a-21c444da5a72)
 
 22.11.
+![image](https://github.com/user-attachments/assets/fc400210-bb41-4f28-bc3f-9be6ddaffa9b)
+
 
 ![image](https://github.com/user-attachments/assets/90a9376e-4725-440f-9484-00f9bcebe9d9)
 
