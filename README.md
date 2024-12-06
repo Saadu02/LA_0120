@@ -1,6 +1,5 @@
 # Projekt-Dokumentation
 
-
 LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 
 | Datum  | Version | Zusammenfassung                                              |
