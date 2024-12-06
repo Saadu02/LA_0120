@@ -27,7 +27,7 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 2    | Funktional | Als ein User möchte ich, dass die LEDs am richtigen Zeitpunkt ein- oder ausgeschaltet sind. |
 | 3    | Funktional | Als ein User möchte ich, dass die Ampeln automatisch die LEDs nach Sensor wechseln. |
 | 4    | Funktional | Als ein User möchte ich, dass es eine Button gibt, die ich anklicken kann, um die Fussgängerstreifen sicher zu überqueren. |
-| 5    | Funktional | Als ein User möchte ich, dass nach dem Klicken des Buttons die LEDs automatisch nach Überprüfung des Objekts wieder grün leuchten. |
+| 5    | Funktional | Als ein User möchte ich, dass nach dem Klicken des Buttons die LEDs automatisch wieder nach Sensor funktionieren. |
 
 ### 1.3 Testfälle
 
@@ -41,14 +41,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 3.1  | Sensor ist über 100 inches | Sensor ist zwischen 10 inches und 100 inches | Ampel wechselt von rot auf gelb |
 | 3.1  | Sensor ist zwischen 10 inches und 100 inches | Sensor ist unter 10 inches | Ampel wechselt von gelb auf grün |
 | 3.1  | Sensor ist unter 10 inches | Sensor erkennt kein Objekt | Ampel wechselt von grün auf rot |
-| 4.1  | Program läuft | Button klicken | Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
-| 5.1  | Program läuft | Button klicken | Ampel-Auto wird rot. Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
-| 5.1  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
+| 4.1  | Program läuft | Button klicken | Sensoren wird ausgeschaltet. Ampel-Auto wechselt von grün auf gelb auf rot. Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
+| 5.1  | Button wurde gedrückt | Ampel-Auto zeigt rot. Ampel-Fussgänger zeigt grün. | Ampel-Auto bleibt rot. Amepl-Fussgänger wechselt von grün auf gelb auf rot. Sensor wird eingeschaltet. |
 
 
 ### 1.4 Diagramme
