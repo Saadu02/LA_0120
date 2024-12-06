@@ -41,6 +41,7 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 22.11.
 ![image](https://github.com/user-attachments/assets/fc400210-bb41-4f28-bc3f-9be6ddaffa9b)
 
+29.11.
 
 ![image](https://github.com/user-attachments/assets/90a9376e-4725-440f-9484-00f9bcebe9d9)
 
