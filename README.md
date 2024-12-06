@@ -33,11 +33,14 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Progamm läuft | Sensor ist unter 10 inches. | Ampel-Auto zeigt grün |
-| 1.2  | Progamm läuft | Sensor ist zwischne 10 inches und 100 inches. | Ampel-Auto zeigt gelb |
-| 1.3  | Progamm läuft | Sensor ist über 100 inches. | Ampel-Auto zeigt rot |
+| 1.1  | Programm läuft | Sensor ist unter 10 inches. | Ampel-Auto zeigt grün |
+| 1.2  | Programm läuft | Sensor ist zwischen 10 inches und 100 inches. | Ampel-Auto zeigt gelb |
+| 1.3  | Programm läuft | Sensor ist über 100 inches. | Ampel-Auto zeigt rot |
+| 1.4  | Programm läuft | Sensor erkennt kein Objekt | Ampel-Auto zeigt rot |
 | 2.1  |              |         |                   |
-| 3.1  |              |         |                   |
+| 3.1  | Sensor ist über 100 inches | Sensor ist zwischen 10 inches und 100 inches | Ampel wechselt von rot auf gelb |
+| 3.1  | Sensor ist zwischen 10 inches und 100 inches | Sensor ist unter 10 inches | Ampel wechselt von gelb auf grün |
+| 3.1  | Sensor ist unter 10 inches | Sensor erkennt kein Objekt | Ampel wechselt von grün auf rot |
 | 4.1  | Program läuft | Button klicken | Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
 | 5.1  | Program läuft | Button klicken | Ampel-Auto wird rot. Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
 | 5.1  |              |         |                   |
