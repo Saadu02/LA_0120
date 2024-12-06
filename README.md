@@ -83,8 +83,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 3.A  | 22.11. | Alle | Sensoren mit LEDs verknüpfen | 90min |
 | 4.a  | 22.11. | Alle | Fussgängerwechsel skizzieren und implementieren | 90min |
 | 4.b  | 29.11. | Alle | Auto-Ampel und Fussgänger-Ampel verknüpfen | 180min|
-| 4.c  | 06.12. | Alle | 4x Ampel für ganze Kreuzung | 180min |
-| 4.c  | 13.12. | Alle | 4x Ampel für ganze Kreuzung | 90min |
+| ~4.c~  | ~06.12.~ | ~Alle~ | ~4x Ampel für ganze Kreuzung~ | ~180min~ |
+| ~4.c~  | ~13.12.~ | ~Alle~ | ~4x Ampel für ganze Kreuzung~ | ~90min~ |
 | 0.C  | 13.12. | Alle | Portfolio schreiben | 90min |
 
 
@@ -111,10 +111,10 @@ Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu ver
 | ---- | ------ | --------- | ------------- | ----------------- |
 | 0.A  | 01.11. | Alle | 180min | 180min |
 | 0.B  | 08.11. | Alle | 180min | 180min |
-| 1.A  | 15.11. | Alle | 90min | 150min |
-| 2.A  | 15.11. | Alle | 90min | 30min |
-| 3.A  | 22.11. | Alle | 150min | 90min |
-| 4.A  | 22.11. | Alle | 180min | 90min |
+| 1.A  | 15.11. | Nicola  | 90min | 150min |
+| 2.A  | 15.11. | Sathana | 90min | 30min |
+| 3.A  | 22.11. | Nicola | 150min | 90min |
+| 4.A  | 22.11. | Sathana | 180min | 90min |
 | 4.B  | 29.11. | Alle | 180min | 180min |
 | 4.B  | 06.12. | Alle | 180min | 180min (+180min) |
 
