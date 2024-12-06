@@ -65,6 +65,11 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 29.11.
 
+![image](https://github.com/user-attachments/assets/6ebe7b89-273c-4d1d-addc-94188b0a5280)
+
+06.12.
+
+
 ## 2 Planen
 
 | AP-№ | Frist  | Zuständig | Beschreibung | geplante Zeit |
@@ -84,7 +89,7 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 4.b  | 29.11. | Alle | Auto-Ampel und Fussgänger-Ampel verknüpfen | 180min|
 | 4.c  | 06.12. | Alle | 4x Ampel für ganze Kreuzung | 180min |
 | 4.c  | 13.12. | Alle | 4x Ampel für ganze Kreuzung | 90min |
-| 0.C  | 13.12  | Alle | Portfolio schreiben | 90min |
+| 0.C  | 13.12. | Alle | Portfolio schreiben | 90min |
 
 
 ## 3 Entscheiden
@@ -115,7 +120,7 @@ Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu ver
 | 3.A  | 22.11. | Alle | 150min | 90min |
 | 4.A  | 22.11. | Alle | 180min | 90min |
 | 4.B  | 29.11. | Alle | 180min | 180min |
-| 4.B  | 06.11. | Alle | 180min | 180min (+180min) |
+| 4.B  | 06.12. | Alle | 180min | 180min (+180min) |
 
 ## 5 Kontrollieren
 
