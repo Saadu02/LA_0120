@@ -23,7 +23,7 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 | US-№ | Verbindlichkeit | Beschreibung                       |
 | ---- | --------------- | ---------------------------------- |
-| 1    | Funktional | Als ein User möchte ich, dass die Sensor auf einem Objekt erkennen können. |
+| 1    | Funktional | Als ein User möchte ich, dass die Sensor auf einem Objekt erkennen können, damit die richige LEDs angezeigt werden. |
 | 2    | Funktional | Als ein User möchte ich, dass die LEDs am richtigen Zeitpunkt ein- oder ausgeschaltet sind. |
 | 3    | Funktional | Als ein User möchte ich, dass die Ampeln automatisch die LEDs nach Sensor wechseln. |
 | 4    | Funktional | Als ein User möchte ich, dass es eine Button gibt, die ich anklicken kann, um die Fussgängerstreifen sicher zu überqueren. |
@@ -33,21 +33,14 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Progamm läuft | Sensor ist unter 10 inches. | Ampel-Auto zeigt grün |
+| 1.2  | Progamm läuft | Sensor ist zwischne 10 inches und 100 inches. | Ampel-Auto zeigt gelb |
+| 1.3  | Progamm läuft | Sensor ist über 100 inches. | Ampel-Auto zeigt rot |
+| 2.1  |              |         |                   |
+| 3.1  |              |         |                   |
+| 4.1  | Program läuft | Button klicken | Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
+| 5.1  | Program läuft | Button klicken | Ampel-Auto wird rot. Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
+| 5.1  |              |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
 
