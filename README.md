@@ -10,7 +10,7 @@ LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 | 15.11. | 0.1.2   | Änderungen, LEDs und Sensoren verknüpfen |
 | 22.11. | 1.0.0   | Auto-Ampel und Fussgänger-Ampel fertig |
 | 29.11. | 1.0.1   | Auto- und Fussgänger-Ampel versucht miteinander zu verbinden |
-| 06.12. | X.X.X   | - |
+| 06.12. | X.X.X   | Auto- und Fussgänger-Ampel fertig miteinander verbunden |
 | 13.12. | X.X.X   | - |
 
 ## 1 Informieren
@@ -96,6 +96,7 @@ Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu ver
 | 3.A  | 22.11. | Alle | 150min | 90min |
 | 4.A  | 22.11. | Alle | 180min | 90min |
 | 4.B  | 29.11. | Alle | 180min | 180min |
+| 4.B  | 06.11. | Alle | 180min | 180min (+180min) |
 
 ## 5 Kontrollieren
 
