@@ -38,8 +38,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 1.3  | Programm läuft | Sensor ist über 100 inches. | Ampel-Auto zeigt rot |
 | 1.4  | Programm läuft | Sensor erkennt kein Objekt | Ampel-Auto zeigt rot |
 | 3.1  | Sensor ist über 100 inches | Sensor verschiebt sich und ist zwischen 10 inches und 100 inches | Ampel wechselt von rot auf gelb |
-| 3.1  | Sensor ist zwischen 10 inches und 100 inches | Sensor verschiebt sich ist unter 10 inches | Ampel wechselt von gelb auf grün |
-| 3.1  | Sensor ist unter 10 inches | Sensor verschiebt sich irgendwo und erkennt kein Objekt | Ampel wechselt von grün auf rot |
+| 3.2  | Sensor ist zwischen 10 inches und 100 inches | Sensor verschiebt sich ist unter 10 inches | Ampel wechselt von gelb auf grün |
+| 3.3  | Sensor ist unter 10 inches | Sensor verschiebt sich irgendwo und erkennt kein Objekt | Ampel wechselt von grün auf rot |
 | 4.1  | Program läuft | Button klicken | Sensoren wird ausgeschaltet. Ampel-Auto wechselt von grün auf gelb auf rot. Ampel-Fussgänger wechselt von rot auf gelb auf grün. |
 | 5.1  | Fortsetzung 4.1  | Ampel-Auto zeigt rot. Ampel-Fussgänger zeigt grün. | Ampel-Auto bleibt rot. Amepl-Fussgänger wechselt von grün auf gelb auf rot. Sensor wird eingeschaltet. |
 
@@ -122,5 +122,14 @@ Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu ver
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 13.12.2024 | OK | Sathana Suganthasri |
+| 1.2  | 13.12.2024 | OK | Sathana Suganthasri |
+| 1.3  | 13.12.2024 | OK | Sathana Suganthasri |
+| 1.4  | 13.12.2024 | OK | Sathana Suganthasri |
+| 3.1  | 13.12.2024 | OK | Nicola Karrer |
+| 3.2  | 13.12.2024 | OK | Nicola Karrer |
+| 3.3  | 13.12.2024 | OK | Nicola Karrer |
+| 4.1  | 13.12.2024 | OK | Nicola Karrer |
+| 5.1  | 13.12.2024 | OK | Nicola Karrer |
+
+Das Programm wurde auf einem HP Windows 11 Pro und HP Windows 11 Enterprise getestet und funktioniert alles einwandfrei.
