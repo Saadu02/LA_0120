@@ -10,7 +10,8 @@ LA_0120 Carina Sutter, Sathana Suganthasri, Nicola Karrer
 | 22.11. | 1.0.0   | Auto-Ampel und Fussgänger-Ampel fertig |
 | 29.11. | 1.0.1   | Auto- und Fussgänger-Ampel versucht miteinander zu verbinden |
 | 06.12. | 2.0.0   | Auto- und Fussgänger-Ampel fertig miteinander verbunden |
-| 13.12. | X.X.X   | - |
+| 13.12. | 2.0.1   | Logikfehler behoben und Tests gemacht |
+| 20.12. | 2.0.1   | Portfolio |
 
 ## 1 Informieren
 
@@ -84,7 +85,8 @@ Wir wollen uns an etwas neues getrauen und haben uns deshalb überlegt, ein Prod
 | 4.b  | 29.11. | Alle | Auto-Ampel und Fussgänger-Ampel verknüpfen | 180min|
 | ~4.c~  | ~06.12.~ | ~Alle~ | ~4x Ampel für ganze Kreuzung~ | ~180min~ |
 | ~4.c~  | ~13.12.~ | ~Alle~ | ~4x Ampel für ganze Kreuzung~ | ~90min~ |
-| 0.C  | 13.12. | Alle | Portfolio schreiben | 90min |
+| 0.C  | 13.12. | Alle | Testen / Fehler beheben | 90min |
+| 0.D  | 20.12. | Alle | Portfolio schreiben | 180min |
 
 
 ## 3 Entscheiden
@@ -116,6 +118,8 @@ Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu ver
 | 4.A  | 22.11. | Sathana | 180min | 90min |
 | 4.B  | 29.11. | Alle | 180min | 180min |
 | 4.B  | 06.12. | Alle | 180min | 180min (+180min) |
+| 0.C  | 13.12. | Alle | 90min | 120min |
+| 0.D  | 20.12. | Alle | 180min | 180min |
 
 ## 5 Kontrollieren
 
