@@ -136,4 +136,4 @@ Wir haben es nicht geschafft, die Auto-Ampel und Fussgänger-Ampel fertig zu ver
 | 5.1  | 13.12.2024 | OK | Nicola Karrer |
 
 Das Programm wurde auf einem HP Windows 11 Pro und HP Windows 11 Enterprise getestet und funktioniert alles einwandfrei.
-Link: https://www.tinkercad.com/things/0rxTw0GKtYS-ampel-funktion 
+Link: https://www.tinkercad.com/things/0rxTw0GKtYS-ampel-funktion
